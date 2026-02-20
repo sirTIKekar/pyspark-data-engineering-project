@@ -21,8 +21,3 @@ It includes:
 4. Aggregate customer-level metrics
 5. Build fact and dimension tables
 
-## How to Run
-
-```bash
-pip install -r requirements.txt
-spark-submit src/etl_pipeline.py
